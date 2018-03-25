@@ -1,0 +1,19 @@
+body {
+    background-color: #132226;
+    color: #A4978E     ;
+    font-family: Consolas, monaco, monospace;
+    font-weight: bold; 
+}
+
+.divider{
+    margin-top: 5px;
+}
+
+.collection.with-header .collection-header
+{
+    background-color: #040c0e;
+    color: antiquewhite;
+}
+.collection .collection-item{
+    background-color: #040c0e;
+}

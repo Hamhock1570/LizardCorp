@@ -8,8 +8,8 @@
 		"scss": "node-sass --watch sass -o css"
 	},
 	"keywords": [
-    "lizard"
-  ],
+		"lizard"
+	],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
